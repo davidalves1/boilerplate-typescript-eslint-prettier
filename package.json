@@ -1,7 +1,6 @@
 {
-  "name": "oauth-provider-api",
+  "name": "boilerplate-typescript-eslint-prettier.git",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "tsx watch src/server.ts",
